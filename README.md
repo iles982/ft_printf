@@ -28,4 +28,4 @@ int				main(void)
 }
 Then compile with a program:
 
-gcc -Wall -Werror -Wextra main.c libftprintf.a -I includes
+gcc -Wall -Werror -Wextra main.c libftprintf.a -I ft_printf.h
